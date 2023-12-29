@@ -1,0 +1,263 @@
+﻿Id;Name;Race;Gender;Alignment;Weapon;Ring Bearer;Magic;Alternative Name;Member of the Fellowship of the Ring;Weapon Name;Realm;Spouse;King/Queen;Dies;The Lord of the Rings;The Hobbit;The Silmarillion
+1;Aragorn;Human;Male;Good;Sword, Bow;No;No;Strider;Yes;Andúril;Gondor;Arwen;Yes;No;Yes;No;No
+2;Arwen;Elf;Female;Good;Sword;No;Yes;Evenstar;No;No;Rivendell;Aragorn;No;No;Yes;No;No
+3;Balin;Dwarf;Male;Good;Axe;No;No;No;No;No;Erebor;No;No;Yes;Yes;Yes;No
+4;Balrog;Maia;No;Evil;Sword, Flame Whip;No;Yes;Durin's Bane;No;No;Khazad-dûm;No;No;Yes;Yes;No;Yes
+5;Bard;Human;Male;Good;Bow;No;No;No;No;Black Arrow;Lake-town;No;Yes;No;No;Yes;No
+6;Beorn;Unknown;Male;Good;Claws, Bite;No;Yes;Skin-changer;No;No;Beorn's Hall;No;No;Yes;No;Yes;No
+7;Bifur;Dwarf;Male;Good;Axe;No;No;No;No;No;Erebor;No;No;No;No;Yes;No
+8;Bilbo Baggins;Hobbit;Male;Good;Dagger;Yes;No;No;No;Sting;The Shire;No;No;No;Yes;Yes;No
+9;Frodo Baggins;Hobbit;Male;Good;Dagger;Yes;No;No;Yes;Sting;The Shire;No;No;No;Yes;Yes;No
+10;Beregond;Human;Male;Good;Sword, Shield;No;No;No;No;No;Gondor;No;No;No;Yes;No;No
+11;Bergil;Human;Male;Good;Dagger;No;No;No;No;No;Gondor;No;No;No;Yes;No;No
+12;Fredegar Bolger;Hobbit;Male;Good;No;No;No;Fatty;No;No;The Shire;No;No;No;Yes;No;No
+13;Tom Bombadil;Unknown;Male;Neutral;Magic;No;Yes;Eldest;No;No;The Old Forest;Goldberry;No;No;Yes;No;No
+14;Boromir;Human;Male;Good;Sword, Shield;No;No;No;Yes;No;Gondor;No;No;Yes;Yes;No;No
+15;Meriadoc Brandybuck;Hobbit;Male;Good;Sword, Dagger;No;No;Merry;Yes;Barrow-blade;The Shire;No;No;No;Yes;No;No
+16;Barliman Butterbur;Human;Male;Neutral;No;No;No;No;No;No;Bree;No;No;No;Yes;No;No
+17;Celeborn;Elf;Male;Good;Sword;No;Yes;No;No;No;Lothlorien;Galadriel;No;No;Yes;No;Yes
+18;Denethor II;Human;Male;Neutral;Sword;No;No;No;No;No;Gondor;Finduilas;No;Yes;Yes;No;No
+19;Dori;Dwarf;Male;Good;Hammer;No;No;No;No;No;Erebor;No;No;No;No;Yes;No
+20;Dwalin;Dwarf;Male;Good;Axe;No;No;No;No;No;Erebor;No;No;No;No;Yes;No
+21;Dain II;Dwarf;Male;Good;Axe;No;No;No;No;No;Erebor;No;Yes;No;No;Yes;No
+22;Elrond;Elf;Male;Good;Sword;Yes;Yes;No;No;No;Rivendell;Celebrian;No;No;Yes;Yes;Yes
+23;Eomer;Human;Male;Good;Sword, Spear, Bow;No;No;No;No;No;Rohan;Lothiriel;No;No;Yes;No;No
+24;Eowyn;Human;Female;Good;Sword;No;No;Dernhelm;No;No;Rohan;Faramir;No;No;Yes;No;No
+25;Fili;Dwarf;Male;Good;Sword, Dagger;No;No;No;No;No;Erebor;No;No;Yes;No;Yes;No
+26;Faramir;Human;Male;Good;Sword, Bow;No;No;No;No;No;Gondor;Eowyn;No;No;Yes;No;No
+27;Galadriel;Elf;Female;Good;Magic;Yes;Yes;No;No;No;Lothlorien;Celeborn;Yes;No;Yes;Yes;Yes
+28;Galion;Elf;Male;Neutral;Bow;No;No;No;No;No;Mirkwood;No;No;No;No;Yes;No
+29;Samwise Gamgee;Hobbit;Male;Good;Dagger;No;No;Sam;Yes;No;The Shire;Rosie Cotton;No;No;Yes;No;No
+30;Gamling;Human;Male;Good;Spear;No;No;No;No;No;Rohan;No;No;No;Yes;No;No
+31;Gandalf;Maia;Male;Good;Sword, Staff, Magic;Yes;Yes;Mithrandir;Yes;Glamdring;Middle-earth;No;No;Yes;Yes;Yes;Yes
+32;Ghân-buri-Ghân;Drúedain;Male;Neutral;Spear;No;No;No;No;No;Rohan;No;No;No;Yes;No;No
+33;Gildor Inglorion;Elf;Male;Neutral;Sword, Bow;No;No;No;No;No;Rivendell;No;No;No;Yes;No;No
+34;Gimli;Dwarf;Male;Good;Axe;No;No;No;Yes;No;Erebor;No;No;No;Yes;No;No
+35;Gloin;Dwarf;Male;Good;Axe;No;No;No;No;No;Erebor;No;No;No;Yes;Yes;No
+36;Glorfindel;Elf;Male;Good;Sword;No;Yes;No;No;Asfaloth;Rivendell;No;No;No;Yes;No;Yes
+37;Goldberry;Unknown;Female;Neutral;No;No;Yes;River-woman's Daughter;No;No;The Old Forest;Tom Bombadil;No;No;Yes;No;No
+38;Golfimbul;Orc;Male;Evil;Sword;No;No;No;No;No;Mordor;No;No;Yes;No;Yes;No
+39;Gollum;Hobbit;Male;Neutral;No;No;No;Smeagol;No;No;Misty Mountains;No;No;Yes;Yes;Yes;No
+40;Gorbag;Orc;Male;Evil;Sword;No;No;No;No;No;Mordor;No;No;Yes;Yes;No;No
+41;Grima;Human;Male;Neutral;Dagger;No;No;Wormtongue;No;No;Rohan;No;No;Yes;Yes;No;No
+42;Grimbold;Human;Male;Good;Sword, Bow;No;No;No;No;No;Rohan;No;No;Yes;Yes;No;No
+43;Great Goblin;Goblin;Male;Evil;Sword;No;No;No;No;No;Goblin-town;No;No;Yes;No;Yes;No
+44;Gwaihir;Eagle;Male;Neutral;Claws, Bite;No;No;Lord of the Eagles;No;No;Misty Mountains;No;No;No;Yes;No;No
+45;Imrahil;Human;Male;Good;Sword;No;No;No;No;No;Gondor;No;No;No;Yes;No;No
+46;Kili;Dwarf;Male;Good;Sword;No;No;No;No;No;Erebor;No;No;Yes;No;Yes;No
+47;Legolas;Elf;Male;Good;Sword, Bow;No;No;No;Yes;No;Mirkwood;No;No;No;Yes;Yes;No
+48;Lugdush;Orc;Male;Evil;Sword;No;No;No;No;No;Mordor;No;No;Yes;Yes;No;No
+49;Mauhur;Orc;Male;Evil;Sword;No;No;No;No;No;Mordor;No;No;Yes;Yes;No;No
+50;Nori;Dwarf;Male;Good;Sword, Dagger;No;No;No;No;No;Erebor;No;No;Yes;No;Yes;No
+51;Oin;Dwarf;Male;Good;Staff;No;No;No;No;No;Erebor;No;No;Yes;No;Yes;No
+52;Ori;Dwarf;Male;Good;Slingshot;No;No;No;No;No;Erebor;No;No;Yes;No;Yes;No
+53;Radagast;Maia;Male;Neutral;Staff, Magic;No;Yes;Aiwendil;No;No;Middle-earth;No;No;No;Yes;Yes;Yes
+54;Saruman;Maia;Male;Evil;Staff, Magic;No;Yes;Saruman the White;No;No;Isengard;No;No;Yes;Yes;Yes;Yes
+55;Sauron;Maia;Male;Evil;Mace, Magic;Yes;Yes;Annatar;No;No;Mordor;Thuringwethil;No;Yes;Yes;Yes;Yes
+56;Shagrat;Orc;Male;Evil;Sword;No;No;No;No;No;Mordor;No;No;Yes;Yes;No;No
+57;Shelob;Spider;Female;Evil;Venomous Bite;No;No;No;No;No;Mordor;No;No;Yes;Yes;No;No
+58;Smaug;Dragon;Male;Evil;Claws, Bite, Fire Breath;No;No;No;No;No;Erebor;No;No;Yes;Yes;Yes;No
+59;Theoden;Human;Male;Good;Sword, Spear;No;No;No;No;No;Rohan;No;No;Yes;Yes;No;No
+60;Thorin;Dwarf;Male;Good;Sword, Shield;No;No;Thorin Oakenshield;No;Orcrist;Erebor;No;Yes;Yes;Yes;Yes;No
+61;Thranduil;Elf;Male;Neutral;Sword;No;No;No;No;No;Mirkwood;No;Yes;No;Yes;Yes;No
+62;Thrain II;Dwarf;Male;Good;Axe;No;No;No;No;No;Erebor;No;Yes;Yes;No;Yes;No
+63;Thror;Dwarf;Male;Good;Sword;No;No;No;No;No;Erebor;No;Yes;Yes;No;Yes;No
+64;Adelard Took;Hobbit;Male;Neutral;Spear, Dagger;No;No;No;No;No;The Shire;No;No;No;Yes;No;No
+65;Peregrin Took;Hobbit;Male;Good;Sword, Dagger;No;No;Pippin;Yes;Barrow-blade;The Shire;No;No;No;Yes;No;No
+66;Treebeard;Ent;Male;Good;Fists;No;No;Fangorn;No;No;Fangorn Forest;No;No;No;Yes;No;No
+67;Witch-king of Angmar;Nazgûl;Male;Evil;Sword, Dagger, Magic;No;Yes;No;No;No;Mordor;No;No;Yes;Yes;No;Yes
+68;Aegnor;Elf;Male;Neutral;Sword, Bow;No;Yes;No;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+69;Aerandir;Human;Male;Good;Sword;No;No;No;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+70;Aerin;Human;Female;Good;Dagger;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+71;Aghan;Human;Male;Evil;Sword;No;No;No;No;No;Beleriand;No;No;Yes;Yes;No;Yes
+72;Amandil;Human;Male;Good;Sword;No;No;No;No;No;Numenor;No;No;Yes;Yes;No;Yes
+73;Amarië;Elf;Female;Good;No;No;Yes;No;No;No;Beleriand;No;No;No;Yes;No;Yes
+74;Amlach;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+75;Amras;Elf;Male;Neutral;Sword, Bow;No;No;Pityafinwë;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+76;Amrod;Elf;Male;Neutral;Sword, Bow;No;No;Ambarussa;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+77;Ancalagon;Dragon;Male;Evil;Claws, Bite, Fire Breath;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+78;Andreth;Human;Female;Good;No;No;No;No;No;No;Beleriand;No;No;Yes;Yes;No;Yes
+79;Andróg;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;Yes;No;Yes
+80;Angrim;Dwarf;Male;Good;Axe;No;No;No;No;No;Beleriand;No;No;Yes;Yes;No;Yes
+81;Angrod;Elf;Male;Neutral;Sword, Bow;No;No;No;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+82;Annael;Elf;Male;Good;Bow;No;No;No;No;No;Beleriand;No;No;Yes;Yes;No;Yes
+83;Ar-Gimilzôr;Human;Male;Evil;Sword;No;No;No;No;No;Numenor;No;No;Yes;No;No;Yes
+84;Ar-Pharazôn;Human;Male;Evil;Sword;No;No;No;No;No;Numenor;No;Yes;Yes;No;No;Yes
+85;Ar-Sakalthôr;Human;Male;Evil;Sword;No;No;No;No;No;Numenor;No;Yes;Yes;No;No;Yes
+86;Aranwë;Elf;Male;Good;Sword;No;No;No;No;No;Beleriand;No;No;Yes;Yes;No;Yes
+87;Aratan;Human;Male;Good;Sword;No;No;No;No;No;Beleriand;No;Yes;Yes;Yes;No;Yes
+88;Aratar;Maia;Male;Neutral;Staff;No;Yes;No;No;No;Beleriand;No;No;Yes;No;Yes;Yes
+89;Aredhel;Elf;Female;Good;Sword;No;No;Ar-Feiniel;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+90;Arien;Maia;Female;Good;Flame;No;Yes;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+91;Arthad;Human;Male;Good;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+92;Asgon;Human;Male;Evil;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+93;Aulë;Ainu;Male;Neutral;Hammer, Magic;No;Yes;Mahal;No;No;Beleriand;No;No;Yes;No;No;Yes
+94;Azaghâl;Dwarf;Male;Good;Axe;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+95;Barach;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+96;Baragund;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+97;Barahir;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+98;Baran;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+99;Beleg;Elf;Male;Neutral;Sword, Bow;No;Yes;Cúthalion;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+100;Belegund;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+101;Bereg;Human;Male;Neutral;Sword, Shield;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+102;Beren;Human;Male;Neutral;Sword;No;No;Erchamion;No;No;Beleriand;Lúthien;No;Yes;No;No;Yes
+103;Borlach;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+104;Borlad;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+105;Boromir of Ladros;Human;Male;Neutral;Sword, Dagger;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+106;Borthand;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+107;Brandir;Human;Male;Neutral;Dagger;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+108;Bregolas;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+109;Bregor;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+110;Brodda;Human;Male;Evil;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+111;Beor;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+112;Bor;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+113;Calmacil;Elf;Male;Good;Sword;No;No;No;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+114;Caranthir;Elf;Male;Neutral;Sword;No;No;Morifinwe;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+115;Carcharoth;Wolf;Male;Evil;Claws, Bite;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+116;Celebrimbor;Elf;Male;Neutral;Hammer;No;Yes;No;No;No;Eregion;No;Yes;Yes;No;No;Yes
+117;Celegorm;Elf;Male;Neutral;Sword;No;No;Turcafinwe;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+118;Ciryon;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+119;Curufin;Elf;Male;Neutral;Sword;No;No;Atarinke;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+120;Círdan;Elf;Male;Good;Sword;Yes;Yes;Nowe;No;No;Beleriand;No;Yes;Yes;Yes;No;Yes
+121;Daeron;Elf;Male;Good;Harp;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+122;Dairuin;Elf;Male;Neutral;Bow;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+123;Denethor I;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+124;Denethor;Human;Male;Neutral;Sword;No;No;No;No;No;Gondor;No;No;Yes;No;No;Yes
+125;Dior;Elf;Male;Neutral;Sword;No;No;Eluchíl;No;No;Beleriand;Nimloth;Yes;Yes;No;No;Yes
+126;Dorlas;Human;Male;Neutral;Bow;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+127;Draugluin;Wolf;Male;Evil;Claws, Bite;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+128;Durin I;Dwarf;Male;Good;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+129;Ecthelion of the Fountain;Elf;Male;Good;Sword;No;Yes;No;No;No;Gondolin;No;No;Yes;No;No;Yes
+130;Eilinel;Elf;Female;Good;Sword;No;No;No;No;No;Gondolin;Arothir;No;Yes;No;No;Yes
+131;Elatan;Human;Male;Good;Sword;No;No;No;No;No;Gondolin;No;No;Yes;No;No;Yes
+132;Elemmírë;Elf;Male;Good;Bow;No;No;No;No;No;Gondolin;No;No;Yes;No;No;Yes
+133;Elendil;Human;Male;Good;Sword;No;No;Numendil;No;Narsil;Numenor;Elenna;No;Yes;Yes;No;Yes
+134;Elendur;Human;Male;Good;Sword;No;No;No;No;No;Numenor;No;No;Yes;No;No;Yes
+135;Elenwë;Elf;Male;Good;Sword;No;No;No;No;No;Gondolin;No;No;Yes;No;No;Yes
+136;Elros;Human;Male;Good;Sword;No;No;Tar-Minyatur;No;No;Numenor;No;Yes;Yes;No;No;Yes
+137;Eluréd;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+138;Elwing;Elf;Female;Good;Sword;No;No;Lúthien;No;No;Beleriand;Eärendil;No;Yes;No;No;Yes
+139;Emeldir;Human;Female;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+140;Erellont;Elf;Male;Good;Bow;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+141;Estë;Ainu;Female;Neutral;Staff, Magic;No;Yes;No;No;No;Valinor;Irmo;No;Yes;No;No;Yes
+142;Eärendil;Elf;Male;Neutral;Sword, Bow;No;Yes;Aikáv;No;No;Beleriand;Elwing;Yes;Yes;No;No;Yes
+143;Eärendur of Andúnië;Human;Male;Neutral;Sword;No;No;No;No;No;Numenor;No;Yes;Yes;No;No;Yes
+144;Eärendur of Arnor;Human;Male;Neutral;Sword;No;No;No;No;No;Arnor;No;Yes;Yes;No;No;Yes
+145;Eärendur of Numenor;Human;Male;Neutral;Sword;No;No;No;No;No;Numenor;No;Yes;Yes;No;No;Yes
+146;Eärwen;Elf;Female;Good;No;No;No;No;No;No;Valinor;Finarfin;No;Yes;No;No;Yes
+147;Eöl;Elf;Male;Evil;Sword;No;No;Dark Elf;No;No;Beleriand;Aredhel;Yes;Yes;No;No;Yes
+148;Eönwë;Maia;Male;Neutral;Sword;No;Yes;No;No;No;Valinor;Manwë;No;Yes;No;No;Yes
+149;Falathar;Elf;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+150;Finarfin;Elf;Male;Good;Sword;No;Yes;Arafinwë;No;No;Valinor;Eärwen;No;Yes;No;No;Yes
+151;Finduilas;Elf;Female;Good;No;No;No;No;No;No;Gondolin;Turgon;Yes;Yes;No;No;Yes
+152;Fingolfin;Elf;Male;Good;Sword;No;Yes;Ñolofinwë;No;No;Beleriand;Anairë;Yes;Yes;No;No;Yes
+153;Fingon;Elf;Male;Good;Sword;No;Yes;Findekáno;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+154;Finrod;Elf;Male;Good;Sword;No;Yes;Findaráto;No;No;Beleriand;Amarië;Yes;Yes;No;No;Yes
+155;Finwë;Elf;Male;Good;Sword;No;No;No;No;No;Valinor;Míriel;Yes;Yes;No;No;Yes
+156;Fuinur;Elf;Male;Evil;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+157;Fëanor;Elf;Male;Neutral;Sword;No;Yes;Curufinwë;No;No;Beleriand;Nerdanel;Yes;Yes;No;No;Yes
+158;Galdor;Elf;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+159;Gamil Zirak;Dwarf;Male;Neutral;Axe;No;No;No;No;No;Khazad-dûm;No;No;Yes;No;No;Yes
+160;Gelmir;Elf;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+161;Gil-galad;Elf;Male;Good;Sword;No;Yes;Rodnor;No;No;Middle-earth;No;Yes;Yes;Yes;No;Yes
+162;Gildor;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+163;Gimilkhâd;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+164;Glaurung;Dragon;Male;Evil;Claws, Bite, Fire Breath;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+165;Glirhuin;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+166;Glóredhel;Elf;Female;Good;Sword;No;No;Aredhel;No;No;Beleriand;Eöl;Yes;Yes;No;No;Yes
+167;Gorlim;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+168;Gothmog;Maia;Male;Evil;Fire Whip, Sword;No;Yes;Lieutenant of Morgul;No;No;Middle-earth;No;Yes;Yes;No;No;Yes
+169;Guilin;Elf;Male;Good;Bow;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+170;Gundor;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+171;Gwindor;Elf;Male;Good;Sword;No;No;No;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+172;Hador;Human;Male;Good;Sword;No;No;Lord of Dor-lómin;No;No;Beleriand;Gildis;No;Yes;No;No;Yes
+173;Haldad;Human;Male;Good;Sword;No;No;Lord of the Haladin;No;No;Beleriand;Hareth;No;Yes;No;No;Yes
+174;Haldan;Human;Male;Good;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+175;Haldar;Human;Male;Good;Sword;No;No;Lord of the Haladin;No;No;Beleriand;Hareth;No;Yes;No;No;Yes
+176;Haleth;Human;Female;Good;Sword;No;No;Chieftain of the Haladin;No;No;Beleriand;No;No;Yes;No;No;Yes
+177;Halmir;Human;Male;Good;Sword;No;No;Lord of Brethil;No;No;Beleriand;No;No;Yes;No;No;Yes
+178;Handir;Human;Male;Good;Sword;No;No;Lord of the Haladin;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+179;Hareth;Human;Female;Good;Sword;No;No;Lady of the Haladin;No;No;Beleriand;Haldad;Yes;Yes;No;No;Yes
+180;Hathaldir;Human;Male;Good;Sword;No;No;Lord of Dor-lómin;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+181;Herumor;Human;Male;Evil;Sword;No;No;Black Numenorean;No;No;Middle-earth;No;Yes;Yes;No;No;Yes
+182;Huan;Wolf;Male;Good;Claws, Bite;No;Yes;Great Hound;No;No;Valinor;No;Yes;Yes;No;No;Yes
+183;Hundad;Human;Male;Good;Sword;No;No;Lord of the Haladin;No;No;Beleriand;No;No;Yes;No;No;Yes
+184;Hunthor;Human;Male;Good;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+185;Huor;Human;Male;Good;Sword;No;No;Lord of Dor-lómin;No;No;Beleriand;Rían;Yes;Yes;No;No;Yes
+186;Húrin;Human;Male;Good;Sword;No;No;Lord of Dor-lómin;No;No;Beleriand;Morwen;Yes;Yes;No;No;Yes
+187;Ibûn;Dwarf;Male;Neutral;Axe;No;No;No;No;No;Khazad-dûm;No;No;Yes;No;No;Yes
+188;Idril;Elf;Female;Good;Sword;No;No;No;No;No;Gondolin;Tuor;No;Yes;No;No;Yes
+189;Ilmarë;Ainu;Female;Neutral;Staff, Magic;No;Yes;No;No;No;Valinor;Manwë;No;Yes;No;No;Yes
+190;Eru Ilúvatar;Ainu;Male;Neutral;Scepter, Magic;No;Yes;No;No;No;Valinor;No;No;Yes;No;No;Yes
+191;Imlach;Human;Male;Good;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+192;Indis;Elf;Female;Good;Sword;No;No;No;No;No;Valinor;Finwë;No;Yes;No;No;Yes
+193;Ingwë;Elf;Male;Good;Sword;No;No;High King of the Elves;No;No;Valinor;No;No;Yes;No;No;Yes
+194;Inzilbêth;Human;Female;Evil;Dagger;No;No;No;No;No;Numenor;Ar-Gimilzôr;No;Yes;No;No;Yes
+195;Iorlas;Human;Male;Good;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+196;Isildur;Human;Male;Good;Sword;No;No;No;No;No;Numenor;No;Yes;Yes;Yes;No;Yes
+197;Khîm;Dwarf;Male;Neutral;Axe;No;No;No;No;No;Khazad-dûm;No;No;Yes;No;No;Yes
+198;Lenwë;Elf;Male;Good;Bow;No;No;Lord of the Nandor;No;No;Beleriand;No;No;Yes;No;No;Yes
+199;Lorgan;Human;Male;Evil;Dagger;No;No;Black Numenorean;No;No;Middle-earth;No;Yes;Yes;No;No;Yes
+200;Lórien;Ainu;Male;Neutral;Staff, Magic;No;Yes;No;No;No;Valinor;Mandos;No;Yes;No;No;Yes
+201;Lúthien;Elf;Female;Good;Sword;No;No;Tinúviel;No;No;Beleriand;Berúthiel;Yes;Yes;No;No;Yes
+202;Mablung;Elf;Male;Good;Bow;No;No;No;No;No;Gondolin;No;Yes;Yes;No;No;Yes
+203;Maedhros;Elf;Male;Good;Sword;No;Yes;Nelyafinwë;No;No;Beleriand;Fingon;Yes;Yes;No;No;Yes
+204;Maeglin;Elf;Male;Good;Sword;No;No;Lómion;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+205;Maglor;Elf;Male;Good;Sword;No;Yes;Makalaurë;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+206;Mahtan;Elf;Male;Good;Sword;No;No;No;No;No;Gondolin;No;No;Yes;No;No;Yes
+207;Malach;Human;Male;Evil;Dagger;No;No;Black Numenorean;No;No;Middle-earth;No;Yes;Yes;No;No;Yes
+208;Mandos;Ainu;Male;Neutral;Staff, Magic;No;Yes;No;No;No;Valinor;No;No;Yes;No;No;Yes
+209;Manwë;Ainu;Male;Good;Scepter, Magic;No;Yes;King of the Valar;No;No;Valinor;Varda;No;Yes;No;No;Yes
+210;Marach;Human;Male;Good;Sword;No;No;Chieftain of the Edain;No;No;Beleriand;No;No;Yes;No;No;Yes
+211;Mardil Voronwë;Human;Male;Neutral;Dagger;No;No;No;No;No;Middle-earth;Arvedui;No;Yes;No;No;Yes
+212;Melian;Maia;Female;Neutral;Magic;No;Yes;No;No;No;Beleriand;Thingol;Yes;Yes;No;No;Yes
+213;Meneldil;Human;Male;Neutral;Sword;No;No;King of Gondor;No;No;Gondor;No;No;Yes;No;No;Yes
+214;Morgoth;Ainu;Male;Evil;Hammer, Magic;Yes;Yes;Melkor;No;Grond(Hammer of the Underworld);Middle-earth;No;Yes;Yes;No;No;Yes
+215;Morwen;Human;Female;Good;Sword;No;No;Lady of Dor-lómin;No;No;Beleriand;Húrin;Yes;Yes;No;No;Yes
+216;Míriel;Elf;Female;Good;No;No;No;Serindë;No;No;Valinor;Finwë;Yes;Yes;No;No;Yes
+217;Mîm;Dwarf;Male;Evil;Dagger;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+218;Nerdanel;Elf;Female;Good;Sword;No;No;No;No;No;Beleriand;Fëanor;Yes;Yes;No;No;Yes
+219;Nessa;Ainu;Female;Neutral;Magic;No;Yes;No;No;No;Valinor;Tulkas;No;Yes;No;No;Yes
+220;Nienna;Ainu;Female;Neutral;Magic;No;Yes;No;No;No;Valinor;No;No;Yes;No;No;Yes
+221;Nimloth;Elf;Female;Good;No;No;No;No;No;No;Numenor;Tar-Palantir;Yes;Yes;No;No;Yes
+222;Nimrodel;Elf;Female;Good;Bow;No;No;No;No;No;Lórien;Amroth;No;Yes;No;No;Yes
+223;Niënor;Human;Female;Neutral;Sword;No;No;Níniel;No;No;Beleriand;Túrin;Yes;Yes;No;No;Yes
+224;Númendil;Elf;Male;Good;Sword;No;No;No;No;No;Valinor;No;No;Yes;No;No;Yes
+225;Ohtar;Human;Male;Good;Bow;No;No;No;No;No;Gondor;No;No;Yes;No;No;Yes
+226;Olwë;Elf;Male;Good;Sword;No;No;No;No;No;Valinor;Unnamed;No;Yes;No;No;Yes
+227;Orodreth;Elf;Male;Good;Sword;No;No;Artanáro;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+228;Oromë;Ainu;Male;Good;Sword, Magic;No;Yes;Aldaron;No;No;Valinor;No;No;Yes;No;No;Yes
+229;Ossë;Ainu;Male;Neutral;Staff, Magic;No;Yes;No;No;No;Valinor;Uinen;No;Yes;No;No;Yes
+230;Radhruin;Human;Male;Neutral;Sword;No;No;No;No;No;Gondor;No;No;Yes;No;No;Yes
+231;Ragnor;Human;Male;Neutral;Sword;No;No;No;No;No;Gondor;No;No;Yes;No;No;Yes
+232;Rían;Human;Female;Good;No;No;No;No;No;No;Beleriand;Huor;Yes;Yes;No;No;Yes
+233;Rúmil;Elf;Male;Good;Sword;No;No;No;No;No;Aman;No;No;Yes;No;No;Yes
+234;Sador;Human;Male;Neutral;Sword;No;No;No;No;No;Beleriand;No;No;Yes;No;No;Yes
+235;Saeros;Elf;Male;Neutral;Bow;No;No;No;No;No;Doriath;No;Yes;Yes;No;No;Yes
+236;Salmar;Ainu;Male;Neutral;Staff, Magic;No;Yes;No;No;No;Valinor;No;No;Yes;No;No;Yes
+237;Soronto;Human;Male;Neutral;Sword;No;No;No;No;No;Gondor;No;No;Yes;No;No;Yes
+238;Tar-Ancalimon;Human;Male;Evil;Sword;No;No;No;No;No;Numenor;No;Yes;Yes;No;No;Yes
+239;Tar-Ancalimë;Elf;Female;Neutral;No;No;No;No;No;No;Numenor;Tar-Aldaron;Yes;Yes;No;No;Yes
+240;Tar-Atanamir;Human;Male;Evil;Sword;No;No;No;No;No;Numenor;No;Yes;Yes;No;No;Yes
+241;Tar-Ciryatan;Human;Male;Evil;Hammer;No;No;No;No;No;Numenor;No;Yes;Yes;No;No;Yes
+242;Tar-Elendil;Human;Male;Good;Axe;No;No;No;No;No;Numenor;No;Yes;Yes;No;No;Yes
+243;Tar-Minastir;Human;Male;Good;Sword, Shield;No;No;No;No;No;Numenor;No;Yes;Yes;No;No;Yes
+244;Tar-Míriel;Elf;Female;Good;No;No;No;No;No;No;Numenor;Tar-Aldaron;Yes;Yes;No;No;Yes
+245;Tar-Palantir;Human;Male;Good;Dagger;No;No;No;No;No;Numenor;No;Yes;Yes;No;No;Yes
+246;Tar-Telemmaitë;Human;Male;Evil;Dagger;No;No;No;No;No;Numenor;No;Yes;Yes;No;No;Yes
+247;Tar-Vanimeldë;Elf;Female;Neutral;No;No;No;No;No;No;Numenor;Tar-Aldaron;Yes;Yes;No;No;Yes
+248;Telchar;Dwarf;Male;Neutral;Axe;No;No;No;No;No;Nogrod;No;No;Yes;No;No;Yes
+249;Thingol;Elf;Male;Good;Sword;No;Yes;Elu;No;No;Doriath;Melian;Yes;Yes;No;No;Yes
+250;Thorondor;Eagle;Male;Neutral;Claws, Bite;No;No;King of the Eagles;No;No;Beleriand;No;No;Yes;No;No;Yes
+251;Thuringwethil;Maia;Female;Evil;Claws, Bite;No;Yes;No;No;No;Middle-earth;Sauron;Yes;Yes;No;No;Yes
+252;Tilion;Maia;Male;Neutral;Bow;No;Yes;No;No;No;Valinor;Arien;No;Yes;No;No;Yes
+253;Tulkas;Ainu;Male;Good;Fists, Magic;No;Yes;No;No;No;Valinor;No;No;Yes;No;No;Yes
+254;Tuor;Human;Male;Good;Sword;No;No;No;No;No;Gondolin;Idril;Yes;Yes;No;No;Yes
+255;Turgon;Elf;Male;Good;Sword;No;Yes;No;No;No;Gondolin;Elenwë;Yes;Yes;No;No;Yes
+256;Túrin;Human;Male;Neutral;Sword;No;No;Neithan;No;No;Beleriand;Finduilas;Yes;Yes;No;No;Yes
+257;Uinen;Ainu;Female;Neutral;Magic;No;Yes;No;No;No;Valinor;Osse;No;Yes;No;No;Yes
+258;Uldor;Human;Male;Evil;Sword;No;No;No;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+259;Ulfang;Human;Male;Evil;Sword;No;No;No;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+260;Ulfast;Human;Male;Evil;Sword;No;No;No;No;No;Beleriand;No;Yes;Yes;No;No;Yes
+261;Ulmo;Ainu;Male;Neutral;Staff, Magic;No;Yes;No;No;No;Valinor;No;No;Yes;No;No;Yes
+262;Ungoliant;Spider;No;Evil;Venomous Bite;No;Yes;No;No;No;Valinor;No;No;Yes;No;No;Yes
